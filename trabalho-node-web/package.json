@@ -1,0 +1,12 @@
+{
+  "name": "trabalho-node-web",
+  "version": "1.0.0",
+  "description": "trabalho de web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mateus Borges e Guimarães",
+  "license": "MIT"
+}
