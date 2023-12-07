@@ -16,9 +16,9 @@
 1. Você terá 5 perguntas para responder, cada uma com 3 alternativas e apenas uma correta, escolha corretamente para ganhar o prêmio máximo de R$1.000.000,00 reais.
 
 ## COMO EXECUTAR
--Abra o arquivo do jogo no seu terminal e dê o comando npm start(o seu computador precisa ter o node instalado).
+- Abra o arquivo do jogo no seu terminal e dê o comando npm start(o seu computador precisa ter o node instalado).
 
 ## LICENÇA 
--MIT License
+- MIT License
 
 - As intruções completas da atividade estão em: [link](https://arthurporto.notion.site/arthurporto/WEBS-e91650829c954e00a5d1a9d24a95884a?p=85ce39acdbc94b40b655500967648114&pm=c).
